@@ -11,4 +11,3 @@ Feature to registration for donor so that donor can create account.
 ## T-21: Verify Donor Eligibility for Hospital Staff
 Feature to check donor eligibility criteria before donation.
 **Status: Implemented**
-## T-21: Verify Donor Eligibility for Hospital Staff
