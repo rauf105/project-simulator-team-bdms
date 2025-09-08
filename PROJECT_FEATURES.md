@@ -18,3 +18,6 @@ Feature to check donor eligibility criteria before donation.
 ## T-22: Schedule and Manage Donation for Hospital Staff
 Feature to schedule donation appointments and manage them.
 **Status: Implemented**
+## T-23: Generate Reports on Blood Stock for Hospital Staff
+Feature to create reports on available blood stock.
+**Status: Implemented**
