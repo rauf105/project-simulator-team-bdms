@@ -21,3 +21,6 @@ Feature to schedule donation appointments and manage them.
 ## T-23: Generate Reports on Blood Stock for Hospital Staff
 Feature to create reports on available blood stock.
 **Status: Implemented**
+"## T-5: Login for Admin" 
+"Feature to login admin with email and password authentication." 
+"**Status: Implemented**" 
