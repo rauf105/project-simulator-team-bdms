@@ -24,3 +24,7 @@ Feature to create reports on available blood stock.
 ## T-5: Login for Admin
 "Feature to login admin with email and password authentication." 
 "**Status: Implemented**" 
+"## T-4: Implement Recipient Login Page" 
+"This task involves creating a login form component for recipients with email and password fields, including input validation and error handling for failed login attempts." 
+"**Status: Implemented**" 
+"" 
